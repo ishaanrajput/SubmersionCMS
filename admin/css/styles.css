@@ -1,0 +1,22 @@
+#load-screen {
+background: url(../images/header-back.png);
+position: fixed;
+z-index: 10000;
+top:0px;
+width: 100%;
+height: 100%;
+
+}
+
+
+#loading {
+
+width: 10%;
+height: 20%;
+margin: 20% auto;
+background: url(../images/loader.gif);
+background-size: 40%;
+background-repeat: no-repeat;
+background-position: center;
+
+}
